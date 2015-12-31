@@ -1,4 +1,4 @@
--hmreck_babel_react_template
+webpack_babel_react_template
 
 webpack, babel, react 集成在一起的样板文件。
 
